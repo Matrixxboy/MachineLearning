@@ -1,3 +1,5 @@
+[![Matrixxboy](https://img.shields.io/badge/github-username_here-purple.svg)](https://github.com/Matrixxboy)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 # Machine Learning Learning Journey
 
 This repository documents my exploration of Machine Learning. It serves as a record of my learning process, focusing on code, notes, and summaries I create.
