@@ -1,4 +1,4 @@
-[![Matrixxboy](https://img.shields.io/badge/github-username_here-purple.svg)](https://github.com/Matrixxboy)
+[![Matrixxboy](https://img.shields.io/badge/github-Matrixxboy-purple.svg)](https://github.com/Matrixxboy)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 # Machine Learning Learning Journey
 
