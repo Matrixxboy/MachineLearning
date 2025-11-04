@@ -30,3 +30,6 @@ This repository documents my exploration of Machine Learning. It serves as a rec
 
 ## **Image Pre/Procesing**
 * ###   "A Beginner’s Guide to Image Preprocessing Techniques-CRC Press (2018)" by Jyotismika Chaki
+
+
+Sources For Learning Maths About Deep Learning : https://www.youtube.com/@csprof/playlists 
